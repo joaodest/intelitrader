@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("menor_distancia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ffe5bdd3d61a4cafb1825fdc9f48f440b20b236")]
 [assembly: System.Reflection.AssemblyProductAttribute("menor_distancia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("menor_distancia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

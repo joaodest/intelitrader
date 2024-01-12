@@ -1,14 +1,16 @@
-﻿namespace menor_distancia
+﻿using System;
+
+namespace menor_distancia
 {
     public class Program
     {
         static void Main(string[] args)
         {
-            int[] arr1 = { 2, 34 };
-            int[] arr2 = { 7, 39 };
+            int[] arr1 = [2, 34, 23, -43, -2, 99];
+            int[] arr2 = [7, 39, 54, 11, 9, 4];
 
             int dist = CalculaDistancia(arr1, arr2);
-            Console.WriteLine($"a menor distancia eh {dist}");
+            Console.WriteLine($"{dist}");
         }
 
         private static int CalculaDistancia(int[] arr1, int[] arr2)
@@ -38,9 +40,9 @@
 
         private static void SortArray(int[] arr)
         {
-            for(int i = 0; i < arr.Length; i++)
+            for (int i = 0; i < arr.Length; i++)
             {
-                for(int j = i; j < arr.Length; j++)
+                for (int j = i; j < arr.Length; j++)
                 {
                     if (arr[i] > arr[j])
                     {
@@ -48,7 +50,7 @@
                         arr[i] = arr[j];
                         arr[j] = aux;
                     }
-                }   
+                }
             }
         }
     }

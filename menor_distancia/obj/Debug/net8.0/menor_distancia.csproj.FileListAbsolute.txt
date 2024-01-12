@@ -26,3 +26,4 @@ C:\Users\joaod\source\repos\intelitrader\menor_distancia\obj\Debug\net8.0\refint
 C:\Users\joaod\source\repos\intelitrader\menor_distancia\obj\Debug\net8.0\menor_distancia.pdb
 C:\Users\joaod\source\repos\intelitrader\menor_distancia\obj\Debug\net8.0\menor_distancia.genruntimeconfig.cache
 C:\Users\joaod\source\repos\intelitrader\menor_distancia\obj\Debug\net8.0\ref\menor_distancia.dll
+C:\Users\joaod\source\repos\intelitrader\menor_distancia\obj\Debug\net8.0\menor_distancia.sourcelink.json
