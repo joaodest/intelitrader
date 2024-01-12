@@ -6,8 +6,8 @@ namespace menor_distancia
     {
         static void Main(string[] args)
         {
-            int[] arr1 = [2, 34, 23, -43, -2, 99];
-            int[] arr2 = [7, 39, 54, 11, 9, 4];
+            int[] arr1 = { 2, 34, 23, -43, -2, 99 };
+            int[] arr2 = { 7, 39, 54, 11, 9, 4 };
 
             int dist = CalculaDistancia(arr1, arr2);
             Console.WriteLine($"{dist}");
