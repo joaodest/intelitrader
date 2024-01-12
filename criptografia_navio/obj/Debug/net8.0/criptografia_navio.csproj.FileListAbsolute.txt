@@ -1,0 +1,14 @@
+C:\Users\joaod\source\repos\intelitrader\criptografia_navio\bin\Debug\net8.0\criptografia_navio.exe
+C:\Users\joaod\source\repos\intelitrader\criptografia_navio\bin\Debug\net8.0\criptografia_navio.deps.json
+C:\Users\joaod\source\repos\intelitrader\criptografia_navio\bin\Debug\net8.0\criptografia_navio.runtimeconfig.json
+C:\Users\joaod\source\repos\intelitrader\criptografia_navio\bin\Debug\net8.0\criptografia_navio.dll
+C:\Users\joaod\source\repos\intelitrader\criptografia_navio\bin\Debug\net8.0\criptografia_navio.pdb
+C:\Users\joaod\source\repos\intelitrader\criptografia_navio\obj\Debug\net8.0\criptografia_navio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaod\source\repos\intelitrader\criptografia_navio\obj\Debug\net8.0\criptografia_navio.AssemblyInfoInputs.cache
+C:\Users\joaod\source\repos\intelitrader\criptografia_navio\obj\Debug\net8.0\criptografia_navio.AssemblyInfo.cs
+C:\Users\joaod\source\repos\intelitrader\criptografia_navio\obj\Debug\net8.0\criptografia_navio.csproj.CoreCompileInputs.cache
+C:\Users\joaod\source\repos\intelitrader\criptografia_navio\obj\Debug\net8.0\criptografia_navio.dll
+C:\Users\joaod\source\repos\intelitrader\criptografia_navio\obj\Debug\net8.0\refint\criptografia_navio.dll
+C:\Users\joaod\source\repos\intelitrader\criptografia_navio\obj\Debug\net8.0\criptografia_navio.pdb
+C:\Users\joaod\source\repos\intelitrader\criptografia_navio\obj\Debug\net8.0\criptografia_navio.genruntimeconfig.cache
+C:\Users\joaod\source\repos\intelitrader\criptografia_navio\obj\Debug\net8.0\ref\criptografia_navio.dll
